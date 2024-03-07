@@ -1,4 +1,6 @@
-## Setting up Automatic Script Execution
+## This is a small project to track if resale tickets for CPH Marathon are available
+
+Only works on macOS.
 
 Our project includes a macOS `launchd` configuration file to schedule automatic script execution. Follow these steps to set it up:
 
